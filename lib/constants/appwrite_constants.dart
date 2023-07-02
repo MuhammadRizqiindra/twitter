@@ -1,7 +1,7 @@
 class AppwriteConstants {
   static const String databaseId = '64a0f648e3c561869458';
   static const String projectId = '6423ba26ef6c810b3753';
-  static const String endPoint = 'http://localhost:80/v1';
+  static const String endPoint = 'https://baas.pasarjepara.com/v1';
 
   static const String usersCollection = '63cb8ae73960973b0635';
   static const String tweetsCollection = '63cbd6781a8ce89dcb95';
